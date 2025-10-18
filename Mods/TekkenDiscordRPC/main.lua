@@ -39,6 +39,7 @@ local character_codes = {
     ["okm"] = "Clive",
     ["kgr"] = "Anna",
     ["tgr"] = "Fahkumram",
+    ["knk"] = "Armor King",
 }
 
 local polaris_hud = nil
@@ -282,4 +283,5 @@ local initialState = {
     game_mode = "startup",
     timestamp = os.time()
 }
+
 saveGameState(initialState)
