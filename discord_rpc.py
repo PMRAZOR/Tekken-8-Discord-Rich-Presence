@@ -83,7 +83,8 @@ CHARACTER_IMAGES = {
     "Heihachi": "heihachi",
     "Clive": "clive",
     "Anna": "anna",
-    "Fahkumram": "fahkumram"
+    "Fahkumram": "fahkumram",
+    "Armor King": "armorking"
 }
 
 
